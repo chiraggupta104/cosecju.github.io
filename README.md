@@ -1,2 +1,2 @@
-# cosecju.github.io
+# COSEC JU
 cosec@
